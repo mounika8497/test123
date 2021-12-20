@@ -1,2 +1,3 @@
-Hello How are you
-yes i am doing good
+hi how are you
+i am doging good.
+what about you
